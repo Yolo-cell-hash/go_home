@@ -1,4 +1,4 @@
-# godrej_home
+# go_home
 
 A new Flutter project.
 
